@@ -11,7 +11,8 @@ Python
 OpenCV
 Tkinter
 NumPy
-CSV
+CSV  
+
 **HOW IT WORKS**
 Train the system by storing face data for individuals.
 Start the application to recognize faces in real-time via webcam.
